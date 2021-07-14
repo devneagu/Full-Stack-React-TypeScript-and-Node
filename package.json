@@ -1,0 +1,22 @@
+{
+  "name": "full-stack-react-typescript-and-node",
+  "version": "1.0.0",
+  "description": "<a href=\"https://www.packtpub.com/product/full-stack-react-typescript-and-node/9781839219931\"><img src=\"https://static.packt-cdn.com/products/9781839219931/cover/smaller\" alt=\"Full-Stack React 17, TypeScript, and Node\" height=\"256px\" align=\"right\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node/issues"
+  },
+  "homepage": "https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
